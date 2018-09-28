@@ -5,8 +5,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Shiroifuyu/gambit-bot/issues)
 
 
-![Bot](https://ame.s-ul.eu/9uSpwlfq.png)
-![Bot](https://ame.s-ul.eu/DPZxQpar.png)
+![Bot](https://ame.s-ul.eu/nWpjY21w.png)
 
 ## Works with
 - [x] Images
